@@ -1,0 +1,2 @@
+# Mark PNG files as binary to prevent EOL normalization
+*.png -text
